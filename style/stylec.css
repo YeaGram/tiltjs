@@ -55,7 +55,7 @@ div#CardContainer div.details {
   padding: 1rem;
   flex: 1;
   display: flex;
-  transform: translateZ(20px);
+  transform: translateZ(120px);
   flex-direction: column;
   transform-style: preserve-3d;
 }
